@@ -1,2 +1,3 @@
-FROM gcr.io/heptio-images/sonobuoy:v0.11.6 
+FROM k8s.gcr.io/heapster:v1.3.0
 MAINTAINER fociceo <fociceo@126.com>
+
