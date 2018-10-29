@@ -1,0 +1,6 @@
+FROM java:8u111-alpine
+
+RUN apk add --no-cache \
+      git 
+
+CMD [ 'ls -l']
